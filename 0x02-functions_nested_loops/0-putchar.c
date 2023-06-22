@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - prints _putchar
- * author:Wondwosen
+ * main - print _putchar
+ * is written by mbah
  * Return: 0
  */
 
