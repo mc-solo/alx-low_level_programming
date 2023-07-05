@@ -2,7 +2,7 @@
 /**
  * _puts_recursion - print a string to the cosole
  * @s: pointer to a string to print
- * return:void 
+ * return : void (Always) 
  */
 void _puts_recursion(char *s)
 {
