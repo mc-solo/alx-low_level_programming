@@ -1,9 +1,7 @@
 #include "main.h"
-#inclde <stdlib.h>
-
 
 /**
- * print_binary -writes the binary representation of a number
+ * print_binary - writes the  binary representation of the number
  * @n: parameter
  */
 
